@@ -14,9 +14,9 @@ https://github.com/mapconcierge/Ukraine2022data/tree/main/satelliteimageries/tem
 
 
 ## About us
-青山学院大学 古橋研究室
+[青山学院大学 古橋研究室](https://medium.com/furuhashilab)
 
-Furuhashi Lab., Aoyama Gakuin University, Japan
+[Furuhashi Lab., Aoyama Gakuin University, Japan](https://medium.com/furuhashilab)
 
 ## Our Collaborators
 * [@hwtnv](https://twitter.com/hwtnv) WTNV Lab., University of Tokyo, Japan, [on Cesium](https://cesium.com/ion/stories/viewer/?id=8be6f99c-0d4c-46ce-91a3-313e3cac62fe)
