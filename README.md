@@ -1,13 +1,13 @@
 # Ukraine2022data 🇺🇦 🇺🇦 🇺🇦
-ウクライナで起きていることをデータとしてアーカイブ
+ウクライナで起きていることを地理空間情報としてアーカイブ
 
-古橋研究室のリポジトリをフォークしたものです。アップデート用
+<a href="https://cesium.com/ion/stories/viewer/?id=8be6f99c-0d4c-46ce-91a3-313e3cac62fe"><img width="1241" alt="スクリーンショット 2022-02-27 9 23 17" src="https://user-images.githubusercontent.com/416977/155863283-4aa30d6d-c4a2-454b-a36f-af57f2a0e2b8.jpg"></a>
 
-<img width="1241" alt="スクリーンショット 2022-02-27 9 23 17" src="https://user-images.githubusercontent.com/416977/155863283-4aa30d6d-c4a2-454b-a36f-af57f2a0e2b8.jpg">
+## 最新データセット
+https://github.com/mapconcierge/Ukraine2022data/blob/main/Ukraina2022latest.kmz?raw=true
 
-## 最新データ
-https://github.com/mapconcierge/Ukraine2022data/blob/main/Ukraina2022latest.kmz
-
+## 簡易ビューワ on Cesium
+https://cesium.com/ion/stories/viewer/?id=8be6f99c-0d4c-46ce-91a3-313e3cac62fe
 
 ## 作業用一時データ
 適宜データ更新を行いますが、全てマージしたデータは、容量が上限に達するまで上記URLを最新データとして公開します。
@@ -16,8 +16,10 @@ https://github.com/mapconcierge/Ukraine2022data/tree/main/satelliteimageries/tem
 
 
 ## About us
-青山学院大学 古橋研究室
-Furuhashi Lab., Aoyama Gakuin University, Japan
+[青山学院大学 古橋研究室](https://medium.com/furuhashilab)
 
-東京大学大学院　渡邉英徳研究室
-Hidenori Watanave Lab., The University of Tokyo, Japan
+[Furuhashi Lab., Aoyama Gakuin University, Japan](https://medium.com/furuhashilab)
+
+## Our Collaborators
+* [@hwtnv](https://twitter.com/hwtnv) WTNV Lab., University of Tokyo, Japan, [on Cesium](https://cesium.com/ion/stories/viewer/?id=8be6f99c-0d4c-46ce-91a3-313e3cac62fe)
+* [Safecast](https://safecast.org/)
