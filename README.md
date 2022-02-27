@@ -12,4 +12,5 @@ https://github.com/mapconcierge/Ukraine2022data/tree/main/satelliteimageries/tem
 
 ## About us
 青山学院大学 古橋研究室
+
 Furuhashi Lab., Aoyama Gakuin University, Japan
