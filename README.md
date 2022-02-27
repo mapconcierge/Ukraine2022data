@@ -8,3 +8,7 @@ https://github.com/mapconcierge/Ukraine2022data/blob/main/Ukraina2022latest.kmz
 
 諸々の作業用データは衛星画像似関しては以下のディレクトリで一時ファイルを置いてあります。
 https://github.com/mapconcierge/Ukraine2022data/tree/main/satelliteimageries/temp
+
+
+## 作業チーム
+青山学院大学 古橋研究室
