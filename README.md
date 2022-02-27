@@ -20,3 +20,4 @@ Furuhashi Lab., Aoyama Gakuin University, Japan
 
 ## Our Collaborator
 * [@hwtnv](https://twitter.com/hwtnv) WTNV Lab., University of Tokyo, Japan, [on Cesium](https://cesium.com/ion/stories/viewer/?id=8be6f99c-0d4c-46ce-91a3-313e3cac62fe)
+* [Safecast](https://safecast.org/)
