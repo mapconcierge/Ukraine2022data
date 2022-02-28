@@ -1,4 +1,5 @@
 # Ukraine2022data 🇺🇦 🇺🇦 🇺🇦
+2022/03/01 updated
 ウクライナで起きていることを地理空間情報としてアーカイブ
 
 <a href="https://cesium.com/ion/stories/viewer/?id=8be6f99c-0d4c-46ce-91a3-313e3cac62fe"><img width="1241" alt="スクリーンショット 2022-02-27 9 23 17" src="https://user-images.githubusercontent.com/416977/155863283-4aa30d6d-c4a2-454b-a36f-af57f2a0e2b8.jpg"></a>
