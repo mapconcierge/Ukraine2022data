@@ -1,0 +1,13 @@
+{
+  "name": "mikolaiv_air_base_ukraine_0003_20220224_123416_ssc18-1-full",
+  "version": "1.1.0",
+  "description": "",
+  "attribution": "Rendered with <a href=\"https://www.maptiler.com/desktop/\">MapTiler Desktop</a>",
+  "type": "overlay",
+  "format": "png",
+  "minzoom": "8",
+  "maxzoom": "18",
+  "scale": "1.000000",
+  "bounds": [32.08533813, 46.93923930, 32.11074287, 46.94918293],
+  "profile": "mercator"
+}
