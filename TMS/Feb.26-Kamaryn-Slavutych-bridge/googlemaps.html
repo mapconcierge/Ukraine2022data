@@ -30,8 +30,8 @@ body { background: #f4f4f4;}
 <script type="text/javascript">
 var map;
 var mapBounds = new google.maps.LatLngBounds(
-    new google.maps.LatLng(51.392671, 30.637111),
-    new google.maps.LatLng(51.397815, 30.652406));
+    new google.maps.LatLng(51.392669, 30.637767),
+    new google.maps.LatLng(51.397833, 30.651972));
 var mapMinZoom = 8;
 var mapMaxZoom = 18;
 var maptiler = new google.maps.ImageMapType({
@@ -62,7 +62,7 @@ function init() {
     var opts = {
         tilt:0,
         streetViewControl: false,
-        center: new google.maps.LatLng(51.395243, 30.644758),
+        center: new google.maps.LatLng(51.395251, 30.644869),
         zoom: 8
     };
     map = new google.maps.Map(document.getElementById("map"), opts);
