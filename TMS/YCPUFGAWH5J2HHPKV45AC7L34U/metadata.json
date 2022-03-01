@@ -1,0 +1,13 @@
+{
+  "name": "YCPUFGAWH5J2HHPKV45AC7L34U",
+  "version": "1.1.0",
+  "description": "",
+  "attribution": "Rendered with <a href=\"https://www.maptiler.com/desktop/\">MapTiler Desktop</a>",
+  "type": "overlay",
+  "format": "png",
+  "minzoom": "8",
+  "maxzoom": "18",
+  "scale": "1.000000",
+  "bounds": [30.17090381, 50.62208558, 30.18462721, 50.62808585],
+  "profile": "mercator"
+}
