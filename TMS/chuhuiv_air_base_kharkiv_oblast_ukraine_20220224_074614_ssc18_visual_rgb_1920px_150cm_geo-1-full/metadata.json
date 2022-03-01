@@ -1,0 +1,13 @@
+{
+  "name": "chuhuiv_air_base_kharkiv_oblast_ukraine_20220224_074614_ssc18_visual_rgb_1920px_150cm_geo-1-full",
+  "version": "1.1.0",
+  "description": "",
+  "attribution": "Rendered with <a href=\"https://www.maptiler.com/desktop/\">MapTiler Desktop</a>",
+  "type": "overlay",
+  "format": "png",
+  "minzoom": "8",
+  "maxzoom": "18",
+  "scale": "1.000000",
+  "bounds": [36.63003358, 49.82227655, 36.67092322, 49.84248430],
+  "profile": "mercator"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "chernobyl_ukraine_s112_20220226T084630Z_5120px_69cm_gallery_geo-1-full",
+  "version": "1.1.0",
+  "description": "",
+  "attribution": "Rendered with <a href=\"https://www.maptiler.com/desktop/\">MapTiler Desktop</a>",
+  "type": "overlay",
+  "format": "png",
+  "minzoom": "8",
+  "maxzoom": "18",
+  "scale": "1.000000",
+  "bounds": [30.07534300, 51.37610901, 30.12742750, 51.40140038],
+  "profile": "mercator"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Feb",
+  "version": "1.1.0",
+  "description": "",
+  "attribution": "Rendered with <a href=\"https://www.maptiler.com/desktop/\">MapTiler Desktop</a>",
+  "type": "overlay",
+  "format": "png",
+  "minzoom": "8",
+  "maxzoom": "18",
+  "scale": "1.000000",
+  "bounds": [33.37700531, 46.76124679, 33.38724317, 46.76972745],
+  "profile": "mercator"
+}
