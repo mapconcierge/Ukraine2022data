@@ -1,0 +1,13 @@
+{
+  "name": "river",
+  "version": "1.1.0",
+  "description": "",
+  "attribution": "Rendered with <a href=\"https://www.maptiler.com/desktop/\">MapTiler Desktop</a>",
+  "type": "overlay",
+  "format": "png",
+  "minzoom": "12",
+  "maxzoom": "15",
+  "scale": "1.000000",
+  "bounds": [29.83492522, 51.50631601, 29.87919420, 51.52491957],
+  "profile": "mercator"
+}
