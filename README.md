@@ -18,7 +18,7 @@ https://github.com/mapconcierge/Ukraine2022data/tree/main/satelliteimageries/tem
 
 
 ## ジオリファレンス済みデータの二次利用について
-* 複数の報道機関からジオリファレンス済データの二次利用について相談を受けましたので [こちら](https://github.com/mapconcierge/Ukraine2022data/issues/13) にまとめました。
+複数の報道機関からジオリファレンス済データの二次利用について相談を受けましたので [こちら](https://github.com/mapconcierge/Ukraine2022data/issues/13) にまとめました。
 
 ## About us
 [青山学院大学 古橋研究室](https://medium.com/furuhashilab)
