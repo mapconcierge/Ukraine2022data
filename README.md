@@ -25,7 +25,7 @@ https://github.com/mapconcierge/Ukraine2022data/tree/main/satelliteimageries/tem
 ## About us
  * [青山学院大学 古橋大地研究室](https://medium.com/furuhashilab) , [Furuhashi Lab., Aoyama Gakuin University, Japan](https://medium.com/furuhashilab)
 
- * [東京大学 渡邉英徳研究室](https://labo.wtnv.jp) , [WTNV Lab., University of Tokyo, Japan](https://labo.wtnv.jp)
+ * [東京大学大学院 渡邉英徳研究室](https://labo.wtnv.jp) , [Hidenori Watanave Lab., University of Tokyo, Japan](https://labo.wtnv.jp)
 
 
 ## Our Collaborators
