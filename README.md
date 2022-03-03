@@ -9,6 +9,8 @@
 https://github.com/mapconcierge/Ukraine2022data/blob/main/Ukraina2022latest.kmz?raw=true
 
 ## 簡易ビューワ on Cesium
+[![Cesium](https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/cesiumion_logo.png?raw=true)](https://cesium.com/ion/stories/viewer/?id=8be6f99c-0d4c-46ce-91a3-313e3cac62fe)
+
 https://cesium.com/ion/stories/viewer/?id=8be6f99c-0d4c-46ce-91a3-313e3cac62fe
 
 ## 作業用一時データ
@@ -21,10 +23,10 @@ https://github.com/mapconcierge/Ukraine2022data/tree/main/satelliteimageries/tem
 複数の報道機関からジオリファレンス済データの二次利用について相談を受けましたので [こちら](https://github.com/mapconcierge/Ukraine2022data/issues/13) にまとめました。
 
 ## About us
-[青山学院大学 古橋研究室](https://medium.com/furuhashilab)
+ * [青山学院大学 古橋大地研究室](https://medium.com/furuhashilab) , [Furuhashi Lab., Aoyama Gakuin University, Japan](https://medium.com/furuhashilab)
 
-[Furuhashi Lab., Aoyama Gakuin University, Japan](https://medium.com/furuhashilab)
+ * [東京大学 渡邉英徳研究室](https://labo.wtnv.jp) , [WTNV Lab., University of Tokyo, Japan](https://labo.wtnv.jp)
+
 
 ## Our Collaborators
-* [@hwtnv](https://twitter.com/hwtnv) WTNV Lab., University of Tokyo, Japan, [on Cesium](https://cesium.com/ion/stories/viewer/?id=8be6f99c-0d4c-46ce-91a3-313e3cac62fe)
 * [Safecast](https://safecast.org/)
