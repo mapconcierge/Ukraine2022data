@@ -1,5 +1,5 @@
 # Ukraine2022data 🇺🇦 🇺🇦 🇺🇦
-[2022/03/01 updated](https://github.com/mapconcierge/Ukraine2022data/commits/main)
+[2022/03/07 updated](https://github.com/mapconcierge/Ukraine2022data/commits/main)
 
 ウクライナで起きていることを地理空間情報としてアーカイブ
 
@@ -7,6 +7,9 @@
 
 ## 最新データセット as KMZ
 https://github.com/mapconcierge/Ukraine2022data/blob/main/Ukraina2022latest.kmz?raw=true
+
+## GitHub Pages
+https://mapconcierge.github.io/Ukraine2022data/
 
 ## 簡易ビューワ on Cesium
 [![Cesium](https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/cesiumion_logo.png?raw=true)](https://cesium.com/ion/stories/viewer/?id=8be6f99c-0d4c-46ce-91a3-313e3cac62fe)
