@@ -18,7 +18,7 @@ https://cesium.com/ion/stories/viewer/?id=8be6f99c-0d4c-46ce-91a3-313e3cac62fe
 
 
 ## 確定版データ
-* 衛星画像データ
+* [衛星画像データ](https://github.com/mapconcierge/Ukraine2022data/tree/main/satelliteimageries)
 * フォトグラメトリ処理データ
 
 ## 作業用一時データ
