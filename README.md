@@ -35,6 +35,8 @@ https://github.com/mapconcierge/Ukraine2022data/tree/main/satelliteimageries/tem
 
  * [東京大学大学院 渡邉英徳研究室](https://labo.wtnv.jp/) , [Hidenori Watanave Lab., The University of Tokyo, Japan](https://labo.wtnv.jp)
 
+ * Additional image processing by [Simeon Schmauß](https://twitter.com/stim3on)
+
 
 ## Our Collaborators
 * [Safecast](https://safecast.org/)
