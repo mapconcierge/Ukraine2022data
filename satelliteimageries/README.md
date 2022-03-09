@@ -1,5 +1,4 @@
-# 衛星画像
-今までのアーカイブデータを撮影日ごとに整理中...
+# KMZ files
 
 ## 20220308
 * [Armored vehicles moving northeast of Antonov Airport, Hostomel ,Ukraine]( https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/Mar.8%2C%20Armored%20vehicles%20moving%20northeast%20of%20Antonov%20Airport%2C%20Hostomel.kmz)
