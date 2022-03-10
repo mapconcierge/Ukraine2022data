@@ -1,36 +1,47 @@
-## Ukraine Geospatial Data Archives
+# Ukraine2022data 🇺🇦 🇺🇦 🇺🇦
+[Latest updates](https://github.com/mapconcierge/Ukraine2022data/commits/main)
 
-You can use the [editor on GitHub](https://github.com/mapconcierge/Ukraine2022data/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+ウクライナで起きていることを地理空間情報としてアーカイブ
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<a href="https://cesium.com/ion/stories/viewer/?id=8be6f99c-0d4c-46ce-91a3-313e3cac62fe"><img width="1241" alt="スクリーンショット 2022-02-27 9 23 17" src="https://user-images.githubusercontent.com/416977/155863283-4aa30d6d-c4a2-454b-a36f-af57f2a0e2b8.jpg"></a>
 
-### Markdown
+## 最新データセット as KMZ
+https://github.com/mapconcierge/Ukraine2022data/blob/main/Ukraina2022latest.kmz?raw=true
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## GitHub Pages
+https://mapconcierge.github.io/Ukraine2022data/
 
-```markdown
-Syntax highlighted code block
+## 簡易ビューワ on Cesium
+[![Cesium](https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/cesiumion_logo.png?raw=true)](https://cesium.com/ion/stories/viewer/?id=8be6f99c-0d4c-46ce-91a3-313e3cac62fe)
 
-# Header 1
-## Header 2
-### Header 3
+https://cesium.com/ion/stories/viewer/?id=8be6f99c-0d4c-46ce-91a3-313e3cac62fe
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## 確定版データ
+* [衛星画像データ](https://github.com/mapconcierge/Ukraine2022data/tree/main/satelliteimageries)
+* フォトグラメトリ処理データ
 
-**Bold** and _Italic_ and `Code` text
+## 作業用一時データ
+適宜データ更新を行いますが、全てマージしたデータは、容量が上限に達するまで上記URLを最新データとして公開します。
+諸々の作業用データは衛星画像似関しては以下のディレクトリで一時ファイルを置いてあります。
+https://github.com/mapconcierge/Ukraine2022data/tree/main/satelliteimageries/temp
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## ジオリファレンス済みデータの二次利用について
+複数の報道機関からジオリファレンス済データの二次利用について相談を受けましたので [こちら](https://github.com/mapconcierge/Ukraine2022data/issues/13) にまとめました。
 
-### Jekyll Themes
+## About Us
+ * [青山学院大学 古橋大地研究室](https://medium.com/furuhashilab) , [Furuhashi Lab., Aoyama Gakuin University, Japan](https://medium.com/furuhashilab)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mapconcierge/Ukraine2022data/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+ * [東京大学大学院 渡邉英徳研究室](https://labo.wtnv.jp/) , [Hidenori Watanave Lab., The University of Tokyo, Japan](https://labo.wtnv.jp)
+
+ * Additional image processing by [Simeon Schmauß](https://twitter.com/stim3on)
+
+
+## Our Collaborators
+* [Safecast](https://safecast.org/)
+
+
 
 ### Support or Contact
 
