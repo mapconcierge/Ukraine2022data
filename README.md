@@ -46,6 +46,12 @@ https://github.com/mapconcierge/Ukraine2022data/tree/main/satelliteimageries/tem
 ![Space](https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/space_10x10.png?raw=true)
 
 
+## メディア掲載実績
+[https://mapconcierge.github.io/Ukraine2022data/media](https://mapconcierge.github.io/Ukraine2022data/media)
+
+![Space](https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/space_10x10.png?raw=true)
+
+
 ## About Us
  * [青山学院大学 古橋大地研究室](https://medium.com/furuhashilab) , [Furuhashi Lab., Aoyama Gakuin University, Japan](https://medium.com/furuhashilab)
 
