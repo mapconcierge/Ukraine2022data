@@ -1,4 +1,3 @@
-# Ukraine2022data 🇺🇦 🇺🇦 🇺🇦
 [Latest updates](https://github.com/mapconcierge/Ukraine2022data/commits/main)
 
 ウクライナで起きていることを地理空間情報としてアーカイブ
