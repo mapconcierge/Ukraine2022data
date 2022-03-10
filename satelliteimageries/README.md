@@ -1,6 +1,8 @@
 # KMZ files
 
 ## 20220309
+* [the devastation from Russia's attacks on Mariupol, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/Mar.9%2C%20Before%20and%20after%20satellite%20imagery%20highlights%20the%20devastation%20from%20Russia's%20attacks%20on%20Mariupol.kmz) ©Maxar
+
 * [Mar.9, Solotvyno Border Crossing, Romania and Ukraine](https://github.com/mapconcierge/Ukraine2022data/blob/main/satelliteimageries/temp/Mar.9%2C%20Solotvyno%20Border%20Crossing%2C%20Romania%20and%20Ukraine.kmz) ©BlackSky
 
 * [the destruction of homes and businesses in the heavily bombed city of Mariupol, Ukraine](https://github.com/mapconcierge/Ukraine2022data/blob/main/satelliteimageries/temp/Mar.9%2C%20the%20destruction%20of%20homes%20and%20businesses%20in%20the%20heavily%20bombed%20city%20of%20Mariupol.kmz) ©Maxar
