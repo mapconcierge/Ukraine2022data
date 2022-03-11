@@ -11,6 +11,12 @@ https://github.com/mapconcierge/Ukraine2022data/blob/main/Ukraina2022latest.kmz?
 ![Space](https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/space_10x10.png?raw=true)
 
 
+## 個別KMZデータ・アーカイブ as KMZ
+https://github.com/mapconcierge/Ukraine2022data/tree/main/satelliteimageries
+
+![Space](https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/space_10x10.png?raw=true)
+
+
 ## GitHub Pages
 https://mapconcierge.github.io/Ukraine2022data/
 
