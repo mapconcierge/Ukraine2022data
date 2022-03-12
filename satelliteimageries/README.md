@@ -43,8 +43,18 @@
 
 ## 20220227
 
+
 ## 20220226
+* Convoy at Kyiv, Ukraine
+* Antonov International Airport, Ukraine
+* nova kakhovka, Ukraine
+* Kamaryn Slavutych Bridge, Ukraine
+* Chernobyl Nuclear Power Plant, Ukraine
 
 ## 20220225
+* Cars stuck in traffic waiting to leave Ukraine into Romania
 
 ## 20220224
+
+## 20220220
+* Helicopter deployment in Valuyki, Russia
