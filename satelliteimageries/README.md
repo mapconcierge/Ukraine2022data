@@ -1,6 +1,9 @@
 # KMZ files
 
 ## 20220310
+* [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> A military deployment of Russian armored vehicles in a residential area in Ozera, northwest of Kyiv, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/Mar.10%2C%20A%20military%20deployment%20of%20Russian%20armored%20vehicles%20in%20a%20residential%20area%20in%20Ozera%2C%20northwest%20of%20Kyiv..kmz) ©Maxar
+
+
 * [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Chernobyl nuclear plant, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/Mar.10%2C%20Chernobyl%2C%20Ukraine.kmz) ©Maxar
 
 * [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Russian military vehicles are seen sitting on roadways in residential areas in the town of Ozera, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/Mar.10%2C%20Russian%20military%20vehicles%20are%20seen%20sitting%20on%20roadways%20in%20residential%20areas%20in%20the%20town%20of%20Ozera.kmz) ©Maxar
