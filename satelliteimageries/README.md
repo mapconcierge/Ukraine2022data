@@ -1,7 +1,7 @@
 # KMZ files
 
 ## 20220310
-* [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Mar.10, A long line of cars trying to leave Kyiv, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/Mar.10%2C%20A%20long%20line%20of%20cars%20trying%20to%20leave%20Kyiv%2C%20Ukraine.kmz) ©Maxar
+* [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> A long line of cars trying to leave Kyiv, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/Mar.10%2C%20A%20long%20line%20of%20cars%20trying%20to%20leave%20Kyiv%2C%20Ukraine.kmz) ©Maxar
 
 * [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> The following three multispectral and natural color images show destroyed homes, impact craters, and fires in the town of Moschun, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/Mar.10%2C%20The%20following%20three%20multispectral%20and%20natural%20color%20images%20show%20destroyed%20homes%2C%20impact%20craters%2C%20and%20fires%20in%20the%20town%20o.kmz) ©Maxar
 
