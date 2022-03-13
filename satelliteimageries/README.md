@@ -34,14 +34,30 @@
 
 
 ## 20220307
+* Superyacht,_Seychelles, Indian Ocean.kmz
+* Superyacht,Seychelles, Indian Ocean.kmz
 
 ## 20220306
+* How far have Russian troops advanced.kmz
+* How far have Russian troops advanced(1).kmz
+* The fight for Kyiv.kmz
+* The fight for Kyiv(1).kmz
+* The fight for Kyiv(2).kmz
+* Baranovichi Air Base.kmz
+* Ukraine is in darkness (border).kmz
+* Ukraine is in darkness (plain).kmz
 
 ## 20220305
 
 ## 20220304
+* Russian Landing Fleet, Crimea.kmz
 
 ## 20220303
+* Baranovichi Air Base (rotation).kmz
+* Machulishchy Air Base (rotation).kmz
+* Machulishchy Air Base 2 (rotation).kmz
+* Shatalovo Air Base.kmz
+
 
 ## 20220302
 
