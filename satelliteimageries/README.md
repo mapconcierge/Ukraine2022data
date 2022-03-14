@@ -34,94 +34,83 @@
 
 
 ## 20220307
-* Superyacht,_Seychelles, Indian Ocean.kmz
-* Superyacht,Seychelles, Indian Ocean.kmz
+* [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Superyacht, Seychelles, Indian Ocean](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/Mar.7%2C%20Superyacht%2C_Seychelles%2C%20Indian%20Ocean.kmz)
 
 ## 20220306
-* How far have Russian troops advanced.kmz
-* How far have Russian troops advanced(1).kmz
-* The fight for Kyiv.kmz
-* The fight for Kyiv(1).kmz
-* The fight for Kyiv(2).kmz
-* Baranovichi Air Base.kmz
-* Ukraine is in darkness (border).kmz
-* Ukraine is in darkness (plain).kmz
+* [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> How far have Russian troops advanced, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/Mar.6%2C%20How%20far%20have%20Russian%20troops%20advanced(1).kmz)
+* <img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> The fight for Kyiv.kmz
+* <img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Baranovichi Air Base.kmz
+* <img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Ukraine is in darkness (border).kmz
+* <img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Ukraine is in darkness (plain).kmz
 
 ## 20220305
 
 ## 20220304
-* Russian Landing Fleet, Crimea.kmz
+* <img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Russian Landing Fleet, Crimea.kmz
 
 ## 20220303
-* Baranovichi Air Base (rotation).kmz
-* Machulishchy Air Base (rotation).kmz
-* Machulishchy Air Base 2 (rotation).kmz
-* Shatalovo Air Base.kmz
+* <img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Baranovichi Air Base (rotation).kmz
+* <img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Machulishchy Air Base (rotation).kmz
+* <img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Machulishchy Air Base 2 (rotation).kmz
+* <img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Shatalovo Air Base.kmz
 
 
 ## 20220302
 
 ## 20220301
-* Vilok-Tiszabecs border crossing.kmz
-* Vasylkiv Air Base.kmz
-* Luninets air base.kmz
-* Ivankiv, Ukraine.kmz
+* <img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Vilok-Tiszabecs border crossing.kmz
+* <img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Vasylkiv Air Base.kmz
+* <img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Luninets air base.kmz
+* <img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Ivankiv, Ukraine.kmz
 
 ## 20220228
-* Antonov Airport2 (rotation).kmz
-* Antonov Airport1(rotation).kmz
-* Antonov Airport (rotation).kmz
-* Ukrainian residents in line at a supermarket in Chernihiv.kmz
-* Russian military convoy passing through scorched countryside (rotation).kmz
-* Russian military convoy making its way through a village near Chernihiv (rotation).kmz
-* Russian airborne forces in town of Zdvyzhivka.kmz
-* Russian airborne forces in town of Zdvyzhivka (rotation).kmz
-* Military convoy near Ivankiv (rotation).kmz
-* Luzhanka immigration checkpoint.kmz
-* Long lines of people waiting for food in Kyiv (rotation).kmz
-* Khilchikha, Belarus (rotation).kmz
-* Ivankiv, Ukraine (rotation).kmz
-* Fires seen north of Ivankiv.kmz
-* destroyed former hangar of the Antonov An-225 Mriya, Antonov Airfield.kmz
-* damaged bridge in Stoyanka, western Kyiv (rotation).kmz
-* Damage caused to a bridge in Chernihiv (rotation).kmz
-* Burning homes and impact craters in fields near Rivnopillya.kmz
-* Antonov airport (rotation).kmz
-* A large crater in Sukachi, Kyiv (rotation).kmz
-* a destroyed military vehicles and houses.kmz
-* A destroyed factory building west of Chernihiv.kmz
-* A damaged bridge and destroyed armored vehicles at Irpin.kmz
-* A blaze at a warehouse and destroyed fields in Chernihiv.kmz
-* Ivankiv.kmz
-* DESNA RIVER BRIDGE.kmz
-* damaged bridge in Stoyanka.kmz
-* Antonov airport.kmz
-* Convoy at Kyiv (0839 UTC).kmz
-* Convoy at Kyiv (0808 UTC).kmz
+* <img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Antonov Airport (rotation).kmz
+* <img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Ukrainian residents in line at a supermarket in Chernihiv.kmz
+* <img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Russian military convoy passing through scorched countryside (rotation).kmz
+* <img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Russian military convoy making its way through a village near Chernihiv (rotation).kmz
+* <img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Russian airborne forces in town of Zdvyzhivka (rotation).kmz
+* <img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Military convoy near Ivankiv (rotation).kmz
+* <img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Luzhanka immigration checkpoint.kmz
+* <img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Long lines of people waiting for food in Kyiv (rotation).kmz
+* <img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Khilchikha, Belarus (rotation).kmz
+* <img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Ivankiv, Ukraine (rotation).kmz
+* <img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Fires seen north of Ivankiv.kmz
+* <img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> destroyed former hangar of the Antonov An-225 Mriya, Antonov Airfield.kmz
+* <img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> damaged bridge in Stoyanka, western Kyiv (rotation).kmz
+* <img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Damage caused to a bridge in Chernihiv (rotation).kmz
+* <img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Burning homes and impact craters in fields near Rivnopillya.kmz
+* <img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> A large crater in Sukachi, Kyiv (rotation).kmz
+* <img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> a destroyed military vehicles and houses.kmz
+* <img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> A destroyed factory building west of Chernihiv.kmz
+* <img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> A damaged bridge and destroyed armored vehicles at Irpin.kmz
+* <img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> A blaze at a warehouse and destroyed fields in Chernihiv.kmz
+* <img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Ivankiv.kmz
+* <img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> DESNA RIVER BRIDGE.kmz
+* <img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> damaged bridge in Stoyanka.kmz
+* <img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Convoy at Kyiv (0839 UTC).kmz
+* <img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Convoy at Kyiv (0808 UTC).kmz
 
 
 ## 20220227
-* Vasylkiv Fuel Depot, Ukraine
-* Grass fires and damages at Antonov Airport, Ukraine
-* Effects of shelling in fields, Ukraine
-* Convoy and burning homes, Ukraine
-* Russian convoy of ground forces, Ukraine
-* Russian convoy of ground forces-3, Ukraine
-* Russian convoy of ground forces-2, Ukraine
+* <img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Vasylkiv Fuel Depot, Ukraine
+* <img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Grass fires and damages at Antonov Airport, Ukraine
+* <img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Effects of shelling in fields, Ukraine
+* <img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Convoy and burning homes, Ukraine
+* <img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Russian convoy of ground forces, Ukraine
 
 ## 20220226
-* Convoy at Kyiv, Ukraine
-* Antonov International Airport, Ukraine
-* nova kakhovka, Ukraine
-* Kamaryn Slavutych Bridge, Ukraine
-* Chernobyl Nuclear Power Plant, Ukraine
-* Antonov International Airport, Ukraine © Sentinel2
+* <img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Convoy at Kyiv, Ukraine
+* <img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Antonov International Airport, Ukraine
+* <img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> nova kakhovka, Ukraine
+* <img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Kamaryn Slavutych Bridge, Ukraine
+* <img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Chernobyl Nuclear Power Plant, Ukraine
+* <img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Antonov International Airport, Ukraine © Sentinel2
 
 
 ## 20220225
-* Cars stuck in traffic waiting to leave Ukraine into Romania
+* <img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Cars stuck in traffic waiting to leave Ukraine into Romania
 
 ## 20220224
 
 ## 20220220
-* Helicopter deployment in Valuyki, Russia
+* <img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Helicopter deployment in Valuyki, Russia
