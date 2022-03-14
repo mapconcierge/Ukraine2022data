@@ -2,6 +2,9 @@
 
 
 ## 20220312
+
+* [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Multispectral imagery of artillery craters in fields and damaged buildings, Zhovteneyvi district, western Mariupol, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/Mar.12%2C%20Multispectral%20imagery%20of%20artillery%20craters%20in%20fields%20and%20damaged%20buildings%2C%20Zhovteneyvi%20district%2C%20western%20Mariupol%2C%20Ukra.kmz) ©Maxar
+
 * [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Views of apartment buildings and damage in area, Zhovteneyvi district, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/Mar.12%2C%20Views%20of%20apartment%20buildings%20and%20damage%20in%20area%2C%20Zhovteneyvi%20district%2C%20Ukraine.kmz) ©Maxar
 
 ## 20220311
