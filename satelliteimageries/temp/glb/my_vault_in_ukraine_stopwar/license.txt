@@ -1,0 +1,11 @@
+Model Information:
+* title:	My Vault in Ukraine #stopwar
+* source:	https://sketchfab.com/3d-models/my-vault-in-ukraine-stopwar-e8a409a4fed94e9b9a859249446833eb
+* author:	MrUnity (https://sketchfab.com/MrUnityCreations)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "My Vault in Ukraine #stopwar" (https://sketchfab.com/3d-models/my-vault-in-ukraine-stopwar-e8a409a4fed94e9b9a859249446833eb) by MrUnity (https://sketchfab.com/MrUnityCreations) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
