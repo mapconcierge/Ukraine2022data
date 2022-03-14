@@ -34,14 +34,13 @@
 
 
 ## 20220307
-* [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Superyacht, Seychelles, Indian Ocean](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/Mar.7%2C%20Superyacht%2C_Seychelles%2C%20Indian%20Ocean.kmz)
+* [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Superyacht, Seychelles, Indian Ocean](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/Mar.7%2C%20Superyacht%2C_Seychelles%2C%20Indian%20Ocean.kmz) ©Planet
 
 ## 20220306
-* [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> How far have Russian troops advanced, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/Mar.6%2C%20How%20far%20have%20Russian%20troops%20advanced(1).kmz)
-* <img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> The fight for Kyiv.kmz
-* <img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Baranovichi Air Base.kmz
-* <img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Ukraine is in darkness (border).kmz
-* <img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Ukraine is in darkness (plain).kmz
+* [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> How far have Russian troops advanced, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/Mar.6%2C%20How%20far%20have%20Russian%20troops%20advanced(1).kmz) ©BBC
+* [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> The fight for Kyiv.kmz](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/Mar.6%2C%20The%20fight%20for%20Kyiv.kmz) ©BBC
+* [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Baranovichi Air Base, Belarus](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/Mar.3%2C%20Baranovichi%20Air%20Base%20(rotation).kmz) ©ImageSat
+* [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Ukraine is in darkness](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/Mar.6%2C%20Ukraine%20is%20in%20darkness%20(border).kmz) ©NASA
 
 ## 20220305
 
