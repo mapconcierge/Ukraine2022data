@@ -3,7 +3,7 @@
 
 ## 20220312
 
-* [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Mariupol hospital and airstrike damage, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/Mar.12%2C%20Mariupol%20hospital%20and%20airstrike%20damage%2C%20Ukraine.kmz) ©Maxar
+* [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Mariupol apartment buildings and airstrike damage, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/Mar.12%2C%20Mariupol%20hospital%20and%20airstrike%20damage%2C%20Ukraine.kmz) ©Maxar
 
 * [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Multispectral imagery of fires in industrial area, Primorskyi district, western Mariupol, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/Mar.12%2C%20Multispectral%20imagery%20of%20fires%20in%20industrial%20area%2C%20Primorskyi%20district%2C%20Ukraine.kmz) ©Maxar
 
