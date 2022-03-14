@@ -49,9 +49,8 @@
 
 ## 20220303
 * [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Baranovichi Air Base, Belarus](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/Mar.3%2C%20Baranovichi%20Air%20Base%20(rotation).kmz) ©ImageSat
-* <img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Machulishchy Air Base (rotation).kmz
-* <img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Machulishchy Air Base 2 (rotation).kmz
-* <img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Shatalovo Air Base.kmz
+* [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Machulishchy Air Base, Belarus](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/Mar.3%2C%20Machulishchy%20Air%20Base%20(rotation).kmz) ©ImageSat
+* <img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Shatalovo Air Base
 
 
 ## 20220302
