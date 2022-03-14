@@ -1,5 +1,11 @@
 # KMZ files
 
+
+## 20220312
+* [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Views of apartment buildings and damage in area, Zhovteneyvi district, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/Mar.12%2C%20Views%20of%20apartment%20buildings%20and%20damage%20in%20area%2C%20Zhovteneyvi%20district%2C%20Ukraine.kmz) ©Maxar
+
+## 20220311
+
 ## 20220310
 * [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> A long line of cars trying to leave Kyiv, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/Mar.10%2C%20A%20long%20line%20of%20cars%20trying%20to%20leave%20Kyiv%2C%20Ukraine.kmz) ©Maxar
 
