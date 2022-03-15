@@ -2,6 +2,8 @@
 
 ## 20220314
 
+* [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> 3.Under bombardment from Russian forces in Mariupol, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/Mar.14%2C%203%20Under%20bombardment%20from%20Russian%20forces%20in%20Mariupol%2C%20Ukraine.kmz) ©Maxar
+
 * [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> 2.Under bombardment from Russian forces in Mariupol, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/Mar.14%2C%202%20Under%20bombardment%20from%20Russian%20forces%20in%20Mariupol%2C%20Ukraine.kmz) ©Maxar
 
 * [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> 1.Under bombardment from Russian forces in Mariupol, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/Mar.14%2C%201%20Under%20bombardment%20from%20Russian%20forces%20in%20Mariupol%2C%20Ukraine.kmz) ©Maxar
