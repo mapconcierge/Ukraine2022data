@@ -70,3 +70,5 @@ https://github.com/mapconcierge/Ukraine2022data/tree/main/satelliteimageries/tem
 
 ## Our Collaborators
 * [Safecast](https://safecast.org/)
+* [YouthMappers AGU](https://medium.com/furuhashilab)
+![Space](https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/space_10x10.png?raw=true)
