@@ -72,10 +72,8 @@
 
 ## Our Collaborators
 * [Safecast](https://safecast.org/)
-
-![Space](https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/space_10x10.png?raw=true)
-
 * [YouthMappers AGU](https://medium.com/furuhashilab)
+![Space](https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/space_10x10.png?raw=true)
 
 
 ### Support or Contact
