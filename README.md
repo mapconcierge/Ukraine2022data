@@ -52,6 +52,12 @@ https://github.com/mapconcierge/Ukraine2022data/tree/main/satelliteimageries/tem
 ![Space](https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/space_10x10.png?raw=true)
 
 
+## ウクライナから避難されている方々を支援するクライシスマッピング
+[<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/dopomoha.png?raw=true" width="300" />](https://dopomoha.pl/en/#map=4/50.54/24.06)
+
+![Space](https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/space_10x10.png?raw=true)
+
+
 ## メディア掲載実績
 [https://mapconcierge.github.io/Ukraine2022data/media](https://mapconcierge.github.io/Ukraine2022data/media)
 
@@ -71,4 +77,6 @@ https://github.com/mapconcierge/Ukraine2022data/tree/main/satelliteimageries/tem
 ## Our Collaborators
 * [Safecast](https://safecast.org/)
 * [YouthMappers AGU](https://medium.com/furuhashilab)
+* [dopomoha.pl by OpenStreetMap Poland](https://dopomoha.pl/en/#map=4/50.54/24.06)
+
 ![Space](https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/space_10x10.png?raw=true)
