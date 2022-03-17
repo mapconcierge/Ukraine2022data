@@ -80,7 +80,7 @@
 * [Safecast](https://safecast.org/)
 * [YouthMappers AGU](https://medium.com/furuhashilab)
 ![Space](https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/space_10x10.png?raw=true)
-* [dopomoha.pl](https://dopomoha.pl/en/#map=4/50.54/24.06)
+* [dopomoha.pl by OpenStreetMap Poland](https://dopomoha.pl/en/#map=4/50.54/24.06)
 
 
 ### Support or Contact
