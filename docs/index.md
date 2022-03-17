@@ -55,7 +55,7 @@
 
 
 ## ウクライナから避難されている方々を支援するクライシスマッピング
-[<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/dopomoha.png?raw=true" width="100%" />](https://dopomoha.pl/en/#map=4/50.54/24.06)
+[<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/dopomoha.png?raw=true" width="300" />](https://dopomoha.pl/en/#map=4/50.54/24.06)
 
 
 ## メディア掲載実績
