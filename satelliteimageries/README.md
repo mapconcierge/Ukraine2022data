@@ -19,6 +19,7 @@
 
 
 ## 20220314
+* [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> The word 'children' was painted in large Russian script on the ground outside the Mariupol Drama Theatre, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/Mar.14%2C%20The%20word%20'children'%20was%20painted%20in%20large%20Russian%20script%20on%20the%20ground%20outside%20the%20Mariupol%20Drama%20Theatre.kmz) ©Maxar
 
 * [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Sentinel2 captured situation of Mariupol, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/Mar.14%2C%20Sentinel2%20captured%20situation%20of%20Mariupol%2C%20Ukraine.kmz) © European Union, Copernicus Sentinel-2 imagery
 
