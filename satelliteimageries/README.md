@@ -11,6 +11,7 @@
 
 
 ## 20220316
+* [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Destruction at Russian-occupied Kherson Airbase after Ukrainian attack.](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/Mar.16%2C%20Destruction%20at%20Russian-occupied%20Kherson%20Airbase%20after%20Ukrainian%20attack.%20.kmz) © Planet
 
 
 ## 20220315
