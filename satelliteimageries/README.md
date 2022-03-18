@@ -15,6 +15,7 @@
 
 
 ## 20220315
+* [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Damage to manufacturing facility and apartment building in Svyatoshyns'kyi District, 6 miles west of Kyiv, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/Mar.15%2C%20damage%20to%20manufacturing%20facility%20and%20apartment%20building%20in%20Svyatoshyns_kyi%20District%2C%206%20miles%20west%20of%20Kyiv%20(rotation).kmz) © Planet
 
 
 ## 20220314
