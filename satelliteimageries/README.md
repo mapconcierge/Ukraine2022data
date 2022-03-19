@@ -1,7 +1,10 @@
 # KMZ files
 
 ## 20220318
-* [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Mar.18, Burning fields south of Chernihiv, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/209b78719048b37e23b59c06781ce7d9fca507ce/satelliteimageries/temp/Mar.18%2C%20Burning%20fields%20south%20of%20Chernihiv%2C%20Ukraine.kmz) ©Maxar
+
+* [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Damaged apartment blocks in Chernihiv, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/Mar.18%2C%20Damaged%20apartment%20blocks%20in%20Chernihiv%2C%20Ukraine.kmz) ©Maxar
+
+* [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Burning fields south of Chernihiv, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/209b78719048b37e23b59c06781ce7d9fca507ce/satelliteimageries/temp/Mar.18%2C%20Burning%20fields%20south%20of%20Chernihiv%2C%20Ukraine.kmz) ©Maxar
 
 
 ## 20220317
