@@ -1,6 +1,14 @@
 # KMZ files
 
 ## 20220318
+
+
+* [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> 2. Burning buildings, homes in Mariupol, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/Mar.18%2C%202.%20Burning%20buildings%2C%20homes%20in%20Mariupol.kmz) ©Maxar
+
+* [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> 1. Burning buildings, homes in Mariupol, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/Mar.18%2C%201.%20Burning%20buildings%2C%20homes%20in%20Mariupol.kmz) ©Maxar
+
+* [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> A line of cars is seen traveling along the highway towards Berdyansk from Mariupol, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/Mar.18%2C%20A%20line%20of%20cars%20is%20seen%20traveling%20along%20the%20highway%20towards%20Berdyansk%20from%20Mariupol.kmz) ©Maxar
+
 * [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> 2. Russian self-propelled artillery, MRLS units near Berestyanka, northwest of Kyiv, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/Mar.18%2C%202.%20Russian%20self-propelled%20artillery%2C%20MRLS%20units%20near%20Berestyanka%2C%20northwest%20of%20Kyiv%2C%20Ukraine.kmz) ©Maxar
 
 * [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> 1. Russian self-propelled artillery, MRLS units near Berestyanka, northwest of Kyiv, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/Mar.18%2C%201.%20Russian%20self-propelled%20artillery%2C%20MRLS%20units%20near%20Berestyanka%2C%20northwest%20of%20Kyiv%2C%20Ukraine.kmz) ©Maxar
