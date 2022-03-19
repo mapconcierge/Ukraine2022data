@@ -2,6 +2,7 @@
 
 ## 20220318
 
+* [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Burning cars on bridge near Irpin, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/Mar.18%2C%20Burning%20cars%20on%20bridge%20near%20Irpin.kmz) ©Maxar
 
 * [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> 2. Burning buildings, homes in Mariupol, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/Mar.18%2C%202.%20Burning%20buildings%2C%20homes%20in%20Mariupol.kmz) ©Maxar
 
