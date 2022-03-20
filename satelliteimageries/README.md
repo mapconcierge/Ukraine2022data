@@ -7,6 +7,10 @@
 
 ## 20220318
 
+* [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Grocery store on fire and damaged residential buildings in Hostomel, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/Mar.18%2C%20Grocery%20store%20on%20fire%20and%20damaged%20residential%20buildings%20in%20Hostomel.kmz) ©Maxar
+
+* [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Homes destroyed by artillery, Moschun, north of Kyiv, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/Mar.18%2C%20Homes%20destroyed%20by%20artillery%2C%20Moschun%2C%20north%20of%20Kyiv.kmz) ©Maxar
+
 * [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Burning cars on bridge near Irpin, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/Mar.18%2C%20Burning%20cars%20on%20bridge%20near%20Irpin.kmz) ©Maxar
 
 * [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> 2. Burning buildings, homes in Mariupol, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/Mar.18%2C%202.%20Burning%20buildings%2C%20homes%20in%20Mariupol.kmz) ©Maxar
