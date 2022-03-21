@@ -11,5 +11,6 @@
 * [テレビ朝日「グッドモーニング」(2022/03/16)](https://youtu.be/7TvqbudJsio)
 * [テレビ朝日「スーパーJチャンネル」(2022/03/16)](https://news.tv-asahi.co.jp/news_society/articles/amp/000248087.html)
 * フジテレビ「めざまし8」(2022/03/17)
+* フジテレビ「Mr.サンデー」(2022/03/20)
 * [産経新聞「ウクライナ侵攻の現実、３Ｄで伝える　東大院教授がデジタル地図で発信」(2022/03/21)](https://www.sankei.com/article/20220321-WMEDCQPLRVMDNOM3B7FQIRHAQM/)
 
