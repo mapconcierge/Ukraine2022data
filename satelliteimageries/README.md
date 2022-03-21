@@ -1,6 +1,14 @@
 # KMZ files
 
+## 20220321
+
+
+## 20220320
+* [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Civilian buildings in Mariupol go up in flames after Russian military attack, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/Mar.20%2C%20Civilian%20buildings%20in%20Mariupol%20go%20up%20in%20flames%20after%20Russian%20military%20attack.kmz) ©Maxar
+
+
 ## 20220319
+* [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Fires burning across the city of Mariupol, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/Mar.19%2C%20Fires%20burning%20across%20the%20city%20of%20Mariupol.kmz) ©European Union, Copernicus Sentinel-2 imagery
 
 * [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> A damaged theater in Mariupol, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/Mar.19%2C%20A%20damaged%20theater%20in%20Mariupol%2C%20Ukraine%20.kmz) ©Maxar
 
