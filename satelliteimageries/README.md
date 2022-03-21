@@ -4,7 +4,7 @@
 
 
 ## 20220320
-* [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Civilian buildings in Mariupol go up in flames after Russian military attack, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/Mar.20%2C%20Civilian%20buildings%20in%20Mariupol%20go%20up%20in%20flames%20after%20Russian%20military%20attack.kmz) ©Maxar
+* [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Civilian buildings in Mariupol go up in flames after Russian military attack, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/Mar.20%2C%20Civilian%20buildings%20in%20Mariupol%20go%20up%20in%20flames%20after%20Russian%20military%20attack.kmz) ©Planet
 
 
 ## 20220319
