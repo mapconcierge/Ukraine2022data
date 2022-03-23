@@ -8,7 +8,12 @@
 
 
 ## 20220319
-* [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Russian military vehicles and tanks seen on the streets of the "left bank" neighborhood in Mariupol, Ukraine.](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/Mar.19%2C%20Russian%20military%20vehicles%20and%20tanks%20seen%20on%20the%20streets%20of%20the%20left%20bank%20neighborhood%20in%20Mariupol%2C%20Ukraine..kmz) ©Maxar
+* [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Smoke rises from burning apartment buildings, Mariupol, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/Mar.19%2C%20Smoke%20rises%20from%20burning%20apartment%20buildings%2C%20Mariupol%2C%20Ukraine.kmz) ©Maxar
+
+* [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Russian military artillery positions northeast of Mariupol, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/Mar.19%2C%20Russian%20military%20artillery%20positions%20northeast%20of%20Mariupol%2C%20Ukraine.kmz) ©Maxar
+
+
+* [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Russian military vehicles and tanks seen on the streets of the "left bank" neighborhood in Mariupol, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/Mar.19%2C%20Russian%20military%20vehicles%20and%20tanks%20seen%20on%20the%20streets%20of%20the%20left%20bank%20neighborhood%20in%20Mariupol%2C%20Ukraine..kmz) ©Maxar
 
 * [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Fires burning across the city of Mariupol, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/Mar.19%2C%20Fires%20burning%20across%20the%20city%20of%20Mariupol.kmz) ©European Union, Copernicus Sentinel-2 imagery
 
