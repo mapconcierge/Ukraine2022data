@@ -7,6 +7,10 @@
 
 
 ## 20220324
+* [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> A crater in a field in central Izyum, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/Mar.24%2C%20A%20crater%20in%20a%20field%20in%20central%20Izyum.kmz) ©Maxar
+
+* [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> A large boiler building and several residential building around it were destroyed, Izyum, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/Mar.24%2C%20A%20large%20boiler%20building%20and%20several%20residential%20building%20around%20it%20were%20destroyed%2C%20Izyum.kmz) ©Maxar
+
 * [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Multispectral image of fire and smoke in Mariupol, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/Mar.24%2C%20Multispectral%20image%20of%20fire%20and%20smoke%20in%20Mariupol%2C%20Ukraine.kmz) ©European Union, Copernicus Sentinel-2 imagery
 
 
