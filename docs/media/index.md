@@ -15,3 +15,5 @@
 * [産経新聞「ウクライナ侵攻の現実、３Ｄで伝える　東大院教授がデジタル地図で発信」(2022/03/21)](https://www.sankei.com/article/20220321-WMEDCQPLRVMDNOM3B7FQIRHAQM/)
 * [毎日新聞「侵攻の検証や抑止を　公開情報でウクライナ「可視化」(2022/03/22)](https://mainichi.jp/articles/20220320/k00/00m/030/119000c)
 * [テレビ東京「ワールドビジネスサテライト（WBS）」(2022/03/22)](https://www.tv-tokyo.co.jp/mv/wbs/newsl/post_248375/)
+* [フジテレビ「Mr.サンデー」(2022/03/27)](https://kakaku.com/tv/channel=8/programID=23018/episodeID=1555532/)
+* [J-WAVE「TOKYO MORNING RADIO」(2022/03/28)](https://radiko.jp/#!/ts/FMJ/20220328060000)
