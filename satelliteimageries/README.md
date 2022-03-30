@@ -44,6 +44,8 @@
 * [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Irpin burns in this Sentinel-2 imagery, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/Mar.21%2C%20Irpin%20burns%20in%20this%20Sentinel-2%20imagery%2C%20Ukraine.kmz) ©European Union, Copernicus Sentinel-2 imagery
 
 ## 20220320
+* [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> People in line waiting outside of a grocery store amidst reports of extreme food and water shortage, in Mariupol, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/Mar.20%2C%20People%20in%20line%20waiting%20outside%20of%20a%20grocery%20store%20amidst%20reports%20of%20extreme%20food%20and%20water%20shortage%2C%20in%20Mariupol%2C%20Ukrain.kmz) ©Maxar
+
 * [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Civilian buildings in Mariupol go up in flames after Russian military attack, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/Mar.20%2C%20Civilian%20buildings%20in%20Mariupol%20go%20up%20in%20flames%20after%20Russian%20military%20attack.kmz) ©Planet
 
 
