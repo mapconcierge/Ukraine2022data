@@ -244,3 +244,6 @@
 
 ## 20220220
 * <img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Helicopter deployment in Valuyki, Russia
+
+## 20211011
+* [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" />Crop art near the village of Bezuhlivka, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/Oct.11%2C%20Crop%20art%20near%20the%20village%20of%20Bezuhlivka%2C%20Ukraine.kmz) ©Maxar
