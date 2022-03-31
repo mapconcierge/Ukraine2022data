@@ -1,6 +1,8 @@
 # KMZ files
 
 ## 20220328
+* [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Damaged the Red Cross warehouse, Mariupol, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/Mar.28%2C%20Multispectral%20image%20of%20fire%20in%20Irpin%2C%20Ukraine.kmz) ©Planet
+
 * [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Multispectral image of fire in Irpin, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/Mar.28%2C%20Multispectral%20image%20of%20fire%20in%20Irpin%2C%20Ukraine.kmz) ©European Union, Copernicus Sentinel-2 imagery
 
 ## 20220327
@@ -16,6 +18,8 @@
 
 
 ## 20220324
+* [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Damaged the Red Cross warehouse, Mariupol, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/Mar.24%2C%20Damaged%20the%20Red%20Cross%20warehouse%2C%20Mariupol.kmz) ©Planet
+
 * [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> A crater in a field in central Izyum, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/Mar.24%2C%20A%20crater%20in%20a%20field%20in%20central%20Izyum.kmz) ©Maxar
 
 * [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> A large boiler building and several residential building around it were destroyed, Izyum, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/Mar.24%2C%20A%20large%20boiler%20building%20and%20several%20residential%20building%20around%20it%20were%20destroyed%2C%20Izyum.kmz) ©Maxar
