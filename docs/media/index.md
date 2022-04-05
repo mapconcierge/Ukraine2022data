@@ -17,5 +17,6 @@
 * [テレビ東京「ワールドビジネスサテライト（WBS）」(2022/03/22)](https://www.tv-tokyo.co.jp/mv/wbs/newsl/post_248375/)
 * [フジテレビ「Mr.サンデー」(2022/03/27)](https://kakaku.com/tv/channel=8/programID=23018/episodeID=1555532/)
 * [J-WAVE「TOKYO MORNING RADIO」(2022/03/28)](https://radiko.jp/#!/ts/FMJ/20220328060000)
+* [フジテレビ「Mr.サンデー」(2022/04/03)](https://www.fnn.jp/articles/-/341864)
 * [朝日新聞デジタル「キーウ近郊の教会敷地に長さ12mの溝　衛星画像で確認、集団墓地か」(2022/04/04)](https://www.asahi.com/articles/ASQ4464JYQ44ULEI00L.html?iref=sp_ss_date_article)
 * テレビ朝日「スーパーJチャンネル」(2022/04/05)
