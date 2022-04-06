@@ -24,4 +24,5 @@
 * [フジテレビ「Mr.サンデー」(2022/04/03)](https://www.fnn.jp/articles/-/341864)
 * [沖縄タイムス/共同通信「侵攻被害　地図で可視化　東京大などのチーム」(2022/04/04)](https://www.okinawatimes.co.jp/articles/-/937143)
 * [朝日新聞デジタル「キーウ近郊の教会敷地に長さ12mの溝　衛星画像で確認、集団墓地か」(2022/04/04)](https://www.asahi.com/articles/ASQ4464JYQ44ULEI00L.html?iref=sp_ss_date_article)
+* 京都新聞/共同通信「被害 デジタル地図で可視化」(2022/04/04)
 * テレビ朝日「スーパーJチャンネル」(2022/04/05)
