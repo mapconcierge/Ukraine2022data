@@ -1,5 +1,18 @@
 # KMZ files
 
+## 20220408
+
+## 20220407
+
+## 20220406
+* [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> A Ukrainian naval vessel and a nearby building burn in the besieged city of Mariupol, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/Apr.6%2C%20A%20Ukrainian%20naval%20vessel%20and%20a%20nearby%20building%20burn%20in%20the%20besieged%20city%20of%20Mariupol%2C%20Ukraine.kmz) ©Planet Labs PBC via [wdel.com](https://www.wdel.com/planet-labs-pbc-mariupol/image_a721ed08-b67e-11ec-b455-8fab7fe4f6e6.html)
+
+## 20220405
+
+## 20220404
+
+## 20220403
+
 ## 20220402
 
 ## 20220401
