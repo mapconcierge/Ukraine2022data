@@ -30,3 +30,8 @@
 * 京都新聞/共同通信「被害 デジタル地図で可視化」(2022/04/04)
 * [福井新聞Ｄ刊/共同通信「被害、デジタル地図に　東大などチームが可視化　ウクライナ侵攻」(2022/04/04)](https://www.fukuishimbun.co.jp/articles/-/1525011)
 * テレビ朝日「スーパーJチャンネル」(2022/04/05)
+* TBS「ひるおび」(2022/04/07)
+* [Global Voices「Satellite mapping project tracks damage to Ukrainian communities」(2022/04/07)](https://globalvoices.org/2022/04/07/satellite-mapping-project-tracks-damage-to-ukrainian-communities/)
+* 読売テレビ「ウェークアップ」(2022/04/09)
+
+
