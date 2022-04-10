@@ -9,6 +9,11 @@
 
 * [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Arp.8, 4. A 8-mile-long Russian military convoy of trucks, armored vehicles, towed artillery, support equipment moving south through Velykyi Burluk, east of Kharkiv, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/Arp.8%2C%204.%20A%208-mile-long%20Russian%20military%20convoy%20of%20trucks%2C%20armored%20vehicles%2C%20towed%20artillery%2C%20support%20equipment%20moving%20south%20thr.kmz) ©Maxar, [@Mike_Eckel](https://twitter.com/Mike_Eckel/status/1513033589134446597)
 
+* [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Arp.8, 5. A 8-mile-long Russian military convoy of trucks, armored vehicles, towed artillery, support equipment moving south through Velykyi Burluk, east of Kharkiv, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/Arp.8%2C%205.%20A%208-mile-long%20Russian%20military%20convoy%20of%20trucks%2C%20armored%20vehicles%2C%20towed%20artillery%2C%20support%20equipment%20moving%20south%20thr.kmz) ©Maxar, [@Mike_Eckel](https://twitter.com/Mike_Eckel/status/1513033589134446597)
+
+* [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Arp.8, 6. A 8-mile-long Russian military convoy of trucks, armored vehicles, towed artillery, support equipment moving south through Velykyi Burluk, east of Kharkiv, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/Arp.8%2C%206.%20A%208-mile-long%20Russian%20military%20convoy%20of%20trucks%2C%20armored%20vehicles%2C%20towed%20artillery%2C%20support%20equipment%20moving%20south%20thr.kmz) ©Maxar, [@Mike_Eckel](https://twitter.com/Mike_Eckel/status/1513033589134446597)
+
+
 ## 20220407
 
 ## 20220406
