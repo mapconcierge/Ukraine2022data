@@ -33,5 +33,6 @@
 * TBS「ひるおび」(2022/04/07)
 * [Global Voices「Satellite mapping project tracks damage to Ukrainian communities」(2022/04/07)](https://globalvoices.org/2022/04/07/satellite-mapping-project-tracks-damage-to-ukrainian-communities/)
 * 読売テレビ「ウェークアップ」(2022/04/09)
-
+* TBS「サンデー・ジャポン」(2022/04/10)
+* フジテレビ「Mr.サンデー」(2022/04/10)
 
