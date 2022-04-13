@@ -1,6 +1,8 @@
 # KMZ files
 
 ## 20220411
+* [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Russian Military deployments were observed near the Kislovka station, Ukraine.](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/Apr.11%2C%20Russian%20Military%20deployments%20were%20observed%20near%20Kislovka%20station%2CUkraine..kmz) ©[Maxar](https://twitter.com/Maxar/status/1514016232885964810/photo/４)
+
 * [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Russian Military deployments were observed in Bilokurakyne,Ukraine.](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/Apr.11%2C%20Russian%20Military%20deployments%20were%20observed%20in%20Bilokurakyne%2CUkraine..kmz) ©[Maxar](https://twitter.com/Maxar/status/1514016232885964810/photo/3)
 
 * [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Russian Military deployments were observed along the 14k-34 highway and the corridor that leads from Soloti and Valuyki in western Russia towards the border with Ukraine.](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/Apr.11%2C%20Russian%20Military%20deployments%20were%20observed%20along%20the%2014k-34%20highway%20and%20the%20corridor%20that%20leads%20from%20Soloti%20and%20Valuyki%20.kmz) ©[Maxar](https://twitter.com/Maxar/status/1514016232885964810/photo/1)
