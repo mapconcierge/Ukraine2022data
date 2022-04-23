@@ -10,6 +10,7 @@
    - [glb](https://github.com/mapconcierge/Ukraine2022data/raw/main/3Dmodels/temp/Apr.18%2C%2002.%20Ilyich%20plant%20in%20Mariupol%2C%20Ukraine.glb)
    - [fbx](https://github.com/mapconcierge/Ukraine2022data/raw/main/3Dmodels/temp/Apr.18%2C%2002.%20Ilyich%20plant%20in%20Mariupol%2C%20Ukraine.fbx)
    - [obj](https://github.com/mapconcierge/Ukraine2022data/raw/main/3Dmodels/temp/Apr.18%2C%2002.%20Ilyich%20plant%20in%20Mariupol%2C%20Ukraine.obj), [mtl](https://raw.githubusercontent.com/mapconcierge/Ukraine2022data/main/3Dmodels/temp/Apr.18%2C%2002.%20Ilyich%20plant%20in%20Mariupol%2C%20Ukraine.mtl)
+   - [stl](https://github.com/mapconcierge/Ukraine2022data/blob/main/3Dmodels/temp/Apr.18%2C%2002.%20Ilyich%20plant%20in%20Mariupol%2C%20Ukraine.stl)
 
 
 ## 20220329-
