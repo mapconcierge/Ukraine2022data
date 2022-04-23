@@ -1,0 +1,13 @@
+# Blender 3.1.0 MTL File: 'mariupol_twitter02_3dmodel_b.blend'
+# www.blender.org
+
+newmtl mariupol_twitter02_3dmodel_a
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd  mariupol_twitter02_3dmodel_a.jpg
