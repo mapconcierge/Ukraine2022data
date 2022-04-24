@@ -7,6 +7,8 @@
 ## 20220421
 
 ## 20220420
+* [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> The Azovstal Steel Plant with some large holes blasted in the roof in Mariupol, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/Apr.20%2C%20The%20Azovstal%20Steel%20Plant%20with%20some%20large%20holes%20blasted%20in%20the%20roof.kmz) ©Planet, [AP](https://apnews.com/article/russia-ukraine-putin-business-europe-moscow-67da12473ccd75fe02992f0eb751c5f4)
+
 * [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> 2-weeks accumulation of fire detection spots, Popasna, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/Apr.20%2C%202-weeks%20accumulation%20of%20fire%20detection%20spots%2C%20Popasna%2C%20Ukraine.kmz) ©[NASA FIRMS Fire Map, Post-processed by Hidenori Watanave](https://firms.modaps.eosdis.nasa.gov/map/#t:adv;d:2022-04-07..2022-04-20;l:noaa20-viirs,viirs,modis_a,modis_t;@38.4,48.6,14z)
 
 * [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> 2-weeks accumulation of fire detection spots, Rubizhne, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/Apr.20%2C%202-weeks%20accumulation%20of%20fire%20detection%20spots%2C%20Rubizhne%2C%20Ukraine.kmz) ©[NASA FIRMS Fire Map, Post-processed by Hidenori Watanave](https://firms.modaps.eosdis.nasa.gov/map/#t:adv;d:2022-04-07..2022-04-20;l:noaa20-viirs,viirs,modis_a,modis_t,countries;@38.4,49.0,14z)
