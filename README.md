@@ -1,4 +1,4 @@
-# Ukraine2022 GEOINT Archives. 🇺🇦 🇺🇦 🇺🇦
+# Ukraine 2022 GEOINT Archives. 🇺🇦 🇺🇦 🇺🇦
 [Latest updates](https://github.com/mapconcierge/Ukraine2022data/commits/main)
 
 Satellites, Drones, 360 Panorama and other Geospatial data.
