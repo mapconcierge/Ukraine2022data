@@ -45,4 +45,7 @@
 * [毎日新聞「ウクライナ侵攻　戦禍の実態、地図に　東大院教授ら、デジタル化」(2022/04/18)](https://mainichi.jp/articles/20220418/ddm/041/030/107000c)
 * フジテレビ「Mr.サンデー」(2022/04/18)
 * フジテレビ「めざまし8」(2022/04/19)
+* [GlobalVoice「Proyecto de cartografía por satélite rastrea daños sufridos por las comunidades ucranianas」(2022/04/21)](https://es.globalvoices.org/2022/04/21/proyecto-de-cartografia-por-satelite-rastrea-danos-sufridos-por-las-comunidades-ucranianas/)
 * [朝日新聞「命がけの写真を未来へ　世界の有志がウクライナの戦禍伝える3D地図」(2022/04/22)](https://www.asahi.com/articles/ASQ4P6J6YQ45UTIL04G.html)
+* 日本テレビ「シューイチ」(2022/04/24)
+* [日経クロステック「デジタル地球儀にアーカイブされるウクライナ侵攻、戦況の可視化図る」(2022/04/27)](https://xtech.nikkei.com/atcl/nxt/column/18/00154/01432/)
