@@ -55,6 +55,6 @@
 * [NHK「週刊まるわかりニュース／ウクライナ東部 町全体で火災” 今の被害をデジタル地図に」(2022/05/03)](https://cesium.com/industries/mission-support/mission-support-demos/)
 * [関西テレビ「報道ランナー／破壊された住宅　ミサイルが直撃したバス…ウクライナの被害を日本から世界へ発信　写真や映像を3Dで立体化」(2022/05/04)](https://www.ktv.jp/news/feature/220504/)
 * [The Asahi Shimbun「Volunteers turn battlefield photos into interactive map of Ukraine」(2022/05/05)](https://www.asahi.com/ajw/articles/14605844)
-* [Ми використовуємо「Researchers share digital visualisation of the destruction in Popasna, Luhansk region」(2022/05/05)(https://www.pravda.com.ua/eng/news/2022/05/4/7344064/)
+* [Ми використовуємо「Researchers share digital visualisation of the destruction in Popasna, Luhansk region」(2022/05/05(https://www.pravda.com.ua/eng/news/2022/05/4/7344064/)
 * [NHK WORLD-JAPAN「Japanese researchers develop digital map of Ukraine」(2022/05/04)](https://www3.nhk.or.jp/nhkworld/en/news/20220503_03/)
 
