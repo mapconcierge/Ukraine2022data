@@ -51,3 +51,12 @@
 * [日経クロステック「デジタル地球儀にアーカイブされるウクライナ侵攻、戦況の可視化図る」(2022/04/27)](https://xtech.nikkei.com/atcl/nxt/column/18/00154/01432/)
 * [GlobalVoice「Картографический проект фиксирует результаты боевых действий на территории Украины」(2022/04/28)](https://ru.globalvoices.org/2022/04/28/112269/)
 * [日経クロステック「フォトグラメトリーのモデルを即座にマッピング、戦争による破壊伝える」(2022/04/28)](https://xtech.nikkei.com/atcl/nxt/column/18/00154/01433/)
+* [Demos ｜ Cesium Mission Support Resources」(2022/05/02)](https://cesium.com/industries/mission-support/mission-support-demos/)
+* [NHK「週刊まるわかりニュース／ウクライナ東部 町全体で火災” 今の被害をデジタル地図に」(2022/05/03)](https://cesium.com/industries/mission-support/mission-support-demos/)
+* 関西テレビ(2022/05/04)
+* [The Asahi Shimbun「Volunteers turn battlefield photos into interactive map of Ukraine」(2022/05/05)](https://www.asahi.com/ajw/articles/14605844)
+* [Ми використовуємо「Researchers share digital visualisation of the destruction in Popasna, Luhansk region」(2022/05/05)(https://www.pravda.com.ua/eng/news/2022/05/4/7344064/)
+
+
+
+
