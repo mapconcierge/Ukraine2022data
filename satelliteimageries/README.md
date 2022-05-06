@@ -3,7 +3,9 @@
 
 ## 20220506
 
+
 ## 20220505
+* [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> May 5, Fire detection spots and huge smoke in eastern Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/0505%20Eastern%20Ukraine/May%205%2C%20Fire%20detection%20spots%20and%20huge%20smoke%20in%20eastern%20Ukraine.kmz) ©[NASA FIRMS Fire Map, Post-processed by Hidenori Watanave](https://firms.modaps.eosdis.nasa.gov/map/#t:adv;d:2022-05-05;l:noaa20-viirs,viirs,modis_a,modis_t,countries,noaa20_crtc;@37.7,48.9,10z)
 
 ## 20220504
 
