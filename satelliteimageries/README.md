@@ -28,6 +28,9 @@
 ## 20220430
 
 ## 20220429
+* [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> 1. More scenes of badly damaged Mariupol city apartment blocks, plus port facilities, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/0429%20Mariupol/Apr.29%2C%201%20More%20scenes%20of%20badly%20damaged%20Mariupol%20city%20apartment%20blocks%2C%20plus%20port%20facilities.kmz) ©Maxar, [Mike Eckel](https://twitter.com/mike_eckel/status/1520443510108921858?s=21&t=O5UoLWVLgur5WfKOZ6oICQ)
+
+* [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> 1. Scenes of Mariupol downtown and various neighborhoods, including the drama theater and train station, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/0429%20Mariupol/Apr.29%2C%201%20Scenes%20of%20Mariupol%20downtown%20and%20various%20neighborhoods%2C%20including%20the%20drama%20theater%20and%20train%20station.kmz) ©Maxar, [Mike Eckel](https://twitter.com/mike_eckel/status/1520443510108921858?s=21&t=O5UoLWVLgur5WfKOZ6oICQ)
 
 ## 20220428
 
