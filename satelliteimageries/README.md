@@ -16,6 +16,8 @@
 
 
 ## 20220503
+* [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> A key bridge damaged by Russian missile attacks near Odesa, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/0503%20Odessa/May%203%2C%20A%20key%20bridge%20damaged%20by%20Russian%20missile%20attacks%20near%20Odesa%2C%20Ukraine.kmz) ©Planet, [AP](https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/201311789_201311789-c288748bea9f4234a7dd8ccec64ac16b.jpg)
+
 
 ## 20220502
 
