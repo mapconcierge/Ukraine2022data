@@ -49,6 +49,7 @@
 * [朝日新聞「命がけの写真を未来へ　世界の有志がウクライナの戦禍伝える3D地図」(2022/04/22)](https://www.asahi.com/articles/ASQ4P6J6YQ45UTIL04G.html)
 * 日本テレビ「シューイチ」(2022/04/24)
 * [日経クロステック「デジタル地球儀にアーカイブされるウクライナ侵攻、戦況の可視化図る」(2022/04/27)](https://xtech.nikkei.com/atcl/nxt/column/18/00154/01432/)
+* [ミラノ工科大学 Open webinar at Polimi(2022/04/27)](https://www.facebook.com/maria.a.brovelli/posts/10161696460443056)
 * [GlobalVoice「Картографический проект фиксирует результаты боевых действий на территории Украины」(2022/04/28)](https://ru.globalvoices.org/2022/04/28/112269/)
 * [日経クロステック「フォトグラメトリーのモデルを即座にマッピング、戦争による破壊伝える」(2022/04/28)](https://xtech.nikkei.com/atcl/nxt/column/18/00154/01433/)
 * [Demos ｜ Cesium Mission Support Resources」(2022/05/02)](https://cesium.com/industries/mission-support/mission-support-demos/)
