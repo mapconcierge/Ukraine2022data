@@ -59,6 +59,7 @@
 * [The Asahi Shimbun「Volunteers turn battlefield photos into interactive map of Ukraine」(2022/05/05)](https://www.asahi.com/ajw/articles/14605844)
 * [Ми використовуємо「Researchers share digital visualisation of the destruction in Popasna, Luhansk region」(2022/05/05)](https://www.pravda.com.ua/eng/news/2022/05/4/7344064/)
 * [日経クロステック「衛星画像、3Dモデルなどオープンデータの活用で戦地の現在を記録する」(2022/05/06)](https://xtech.nikkei.com/atcl/nxt/column/18/00154/01434/)
+* [NYTimes「NASA satellites meant to detect wildfires offer a peek at Ukraine’s front lines.」(2022/05/06)](https://www.nytimes.com/live/2022/05/06/world/ukraine-russia-war-news/nasa-satellites-fires-ukraines-war-front-lines?smid=url-copy)
 * [読売新聞「侵攻の凄惨な被害「衛星画像マップ」で可視化「自分事と感じてもらいたい」…東大教授ら」(2022/05/09)](https://www.yomiuri.co.jp/kyoiku/kyoiku/news/20220509-OYT1T50019/)
 
 
