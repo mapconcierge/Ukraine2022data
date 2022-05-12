@@ -1,8 +1,21 @@
 # KMZ files
 
+## 20220511
+* [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> 1.Russian pontoon bridges and military vehicles were blown up near Bilohorivka, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/0511-10%20Russian%20pontoon%20bridge/May%2011%2C%20Russian%20pontoon%20bridges%20and%20military%20vehicles%20were%20blown%20up%20near%20Bilohorivka.kmz) ©[BlackSky via CNN](https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-05-11-22/h_ec80e0cc3ecc3bc617414c159c824b5d)
+
+* [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> 2.Russian pontoon bridges and military vehicles were blown up near Bilohorivka, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/0511-10%20Russian%20pontoon%20bridge/May%2011%2C%202%20Russian%20pontoon%20bridges%20and%20military%20vehicles%20were%20blown%20up%20near%20Bilohorivka.kmz) ©[BlackSky via CNN](https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-05-11-22/h_ec80e0cc3ecc3bc617414c159c824b5d)
+
+
+## 20220510
+* [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Russian pontoon bridge crossing the river near Bilohorivka, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/0511-10%20Russian%20pontoon%20bridge/May%2010%2C%20Russian%20pontoon%20bridge%20crossing%20the%20river%20near%20Bilohorivka.kmz) ©[CNN](https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-05-11-22/h_ec80e0cc3ecc3bc617414c159c824b5d)
+
+## 20220509
+
+## 20220508
+
+## 20220507
 
 ## 20220506
-
 
 ## 20220505
 * [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Fire detection spots and huge smoke in eastern Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/0505%20Eastern%20Ukraine/May%205%2C%20Fire%20detection%20spots%20and%20huge%20smoke%20in%20eastern%20Ukraine.kmz) ©[NASA FIRMS Fire Map, Post-processed by Hidenori Watanave](https://firms.modaps.eosdis.nasa.gov/map/#t:adv;d:2022-05-05;l:noaa20-viirs,viirs,modis_a,modis_t,countries,noaa20_crtc;@37.7,48.9,10z)
