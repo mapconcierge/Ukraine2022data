@@ -61,6 +61,5 @@
 * [日経クロステック「衛星画像、3Dモデルなどオープンデータの活用で戦地の現在を記録する」(2022/05/06)](https://xtech.nikkei.com/atcl/nxt/column/18/00154/01434/)
 * [NYTimes「NASA satellites meant to detect wildfires offer a peek at Ukraine’s front lines.」(2022/05/06)](https://www.nytimes.com/live/2022/05/06/world/ukraine-russia-war-news/nasa-satellites-fires-ukraines-war-front-lines?smid=url-copy)
 * [読売新聞「侵攻の凄惨な被害「衛星画像マップ」で可視化「自分事と感じてもらいたい」…東大教授ら」(2022/05/09)](https://www.yomiuri.co.jp/kyoiku/kyoiku/news/20220509-OYT1T50019/)
-
-
+* [NHK「衛星画像で軍事侵攻を検証 “ジオリファレンス”市民が体験」(2022/05/14)](https://www3.nhk.or.jp/news/html/20220514/k10013626941000.html)
 
