@@ -1,5 +1,19 @@
 # KMZ files
 
+## 20220517
+
+## 20220516
+* [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Vehcles along a main route between the industrial area and eastern Mariupol, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/0516%20Mariupol/May%2016%2C%20Vehcles%20along%20a%20main%20route%20between%20the%20industrial%20area%20and%20eastern%20Mariupol.kmz) ©[BlackSky]([https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-05-11-22/h_ec80e0cc3ecc3bc617414c159c824b5d](https://twitter.com/BlackSky_Inc/status/1526512478255030273?s=20&t=UiYRyxKyY5jgLZ4N5gpARA))
+
+
+## 20220515
+
+## 20220514
+
+## 20220513
+
+## 20220512
+
 ## 20220511
 * [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> 1.Russian pontoon bridges and military vehicles were blown up near Bilohorivka, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/0511-10%20Russian%20pontoon%20bridge/May%2011%2C%20Russian%20pontoon%20bridges%20and%20military%20vehicles%20were%20blown%20up%20near%20Bilohorivka.kmz) ©[BlackSky via CNN](https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-05-11-22/h_ec80e0cc3ecc3bc617414c159c824b5d)
 
@@ -12,6 +26,7 @@
 ## 20220509
 
 ## 20220508
+* [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Satellites GRUS(s) captured the image of Severodonetsk, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/May.8%20Satellites%20GRUS(s)%20captured%20the%20image%20of%20Severodonetsk%2C%20Ukraine.kmz) ©[Axelspace](https://twitter.com/axelspace/status/1526496615137128449/photo/1)
 
 ## 20220507
 
