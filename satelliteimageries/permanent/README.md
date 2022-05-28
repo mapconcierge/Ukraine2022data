@@ -5,4 +5,4 @@
 * 接頭辞の sat は衛星画像、3dm は三次元モデル、360 は360パノラマとデータタイプのカテゴライズ
 
 ## サンプル
-20220526Kolodyazi / sat_Ukraine20220526Kolodyazi01Maxar.kmz
+20220526Kolodyazi / sat_Ukraine20220526Kolodyazi001Maxar.kmz
