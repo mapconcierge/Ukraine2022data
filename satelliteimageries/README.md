@@ -3,11 +3,11 @@
 ## 20220527
 
 ## 20220526
-* [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Russian armored unit deployed along the road in Popasna, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/0429%20Mariupol/Apr.29%2C%201%20More%20scenes%20of%20badly%20damaged%20Mariupol%20city%20apartment%20blocks%2C%20plus%20port%20facilities.kmz) ©[Maxar](https://twitter.com/Maxar/status/1530313120006123520/photo/1)
+* [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Russian armored unit deployed along the road in Popasna, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/0526popasna/May.26%2C%20Russian%20armored%20unit%20deployed%20along%20the%20road%20in%20Popasna%2C%20Ukraine.kmz) ©[Maxar](https://twitter.com/Maxar/status/1530313120006123520/photo/1)
 
-* [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> 1. Russian forces deployed in the town of Kolodyazi, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/0429%20Mariupol/Apr.29%2C%201%20More%20scenes%20of%20badly%20damaged%20Mariupol%20city%20apartment%20blocks%2C%20plus%20port%20facilities.kmz) ©[Maxar](https://twitter.com/Maxar/status/1530314425546067968/photo/1)
+* [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> 1. Russian forces deployed in the town of Kolodyazi, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/0526kolodyazi/May.26%2C%201.%20Russian%20forces%20deployed%20in%20the%20town%20of%20Kolodyazi%2C%20Ukraine.kmz) ©[Maxar](https://twitter.com/Maxar/status/1530314425546067968/photo/1)
 
-* [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> 2. Russian forces deployed in the town of Kolodyazi, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/0429%20Mariupol/Apr.29%2C%201%20More%20scenes%20of%20badly%20damaged%20Mariupol%20city%20apartment%20blocks%2C%20plus%20port%20facilities.kmz) ©[Maxar](https://twitter.com/Maxar/status/1530314425546067968/photo/1)
+* [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> 2. Russian forces deployed in the town of Kolodyazi, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/0526kolodyazi/May.26%2C%202.%20Russian%20forces%20deployed%20in%20the%20town%20of%20Kolodyazi%2C%20Ukraine.kmz) ©[Maxar](https://twitter.com/Maxar/status/1530314425546067968/photo/1)
 
 ## 20220525
 
