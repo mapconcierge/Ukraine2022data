@@ -13,7 +13,13 @@
 
 
 ## 20220525
-* [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Russian armored unit deployed along the road in Popasna, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/0526popasna/May.26%2C%20Russian%20armored%20unit%20deployed%20along%20the%20road%20in%20Popasna%2C%20Ukraine.kmz) ©[Maxar](https://twitter.com/Maxar/status/1530313120006123520/photo/1)
+* [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Destroyed buildings, homes from artillery shelling in Popasna, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/0525popasna/May.25%2C%20Destroyed%20buildings%2C%20homes%20from%20artillery%20shelling%20in%20Popasna%2C%20Ukraine.kmz) © Maxar, via [Mike Eckel](https://twitter.com/Mike_Eckel/status/1530420893704507394/photo/3)
+
+* [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Russian armored unit deployed along the road in Popasna, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/0525popasna/May.25%2C%20Russian%20armored%20unit%20deployed%20along%20the%20road%20in%20Popasna%2C%20Ukraine.kmz) ©[Maxar](https://twitter.com/Maxar/status/1530313120006123520/photo/1)
+
+* [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Extensive building damage in Popasna, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/0525popasna/May.25%2C%20Extensive%20building%20damage%20in%20Popasna%2C%20Ukraine.kmz) © Maxar, via [Mike Eckel](https://twitter.com/Mike_Eckel/status/1530420893704507394/photo/1)
+
+
 
 ## 20220524
 
