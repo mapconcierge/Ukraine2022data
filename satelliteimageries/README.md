@@ -3,22 +3,33 @@
 ## 20220527
 
 ## 20220526
+### Kolodyazi
 * [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> 1. Russian forces deployed in the town of Kolodyazi, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/0526kolodyazi/May.26%2C%201.%20Russian%20forces%20deployed%20in%20the%20town%20of%20Kolodyazi%2C%20Ukraine.kmz) ©[Maxar](https://twitter.com/Maxar/status/1530314425546067968/photo/1)
 
 * [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> 2. Russian forces deployed in the town of Kolodyazi, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/0526kolodyazi/May.26%2C%202.%20Russian%20forces%20deployed%20in%20the%20town%20of%20Kolodyazi%2C%20Ukraine.kmz) ©[Maxar](https://twitter.com/Maxar/status/1530314425546067968/photo/1)
 
+### Lyman
 * [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> 1. Towed artillery and self-propelled artillery batteries north of Lyman, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/0526lyman/May.26%2C%201.%20Towed%20artillery%20and%20self-propelled%20artillery%20batteries%20%20north%20of%20Lyman.kmz) ©[Maxar](https://twitter.com/Maxar/status/1530314425546067968/photo/1)
 
 * [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> 2. Towed artillery and self-propelled artillery batteries north of Lyman, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/0526lyman/May.26%2C%202.%20Towed%20artillery%20and%20self-propelled%20artillery%20batteries%20%20north%20of%20Lyman.kmz) ©[Maxar](https://twitter.com/Maxar/status/1530314425546067968/photo/1)
 
 
 ## 20220525
+### Popasna
 * [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Destroyed buildings, homes from artillery shelling in Popasna, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/0525popasna/May.25%2C%20Destroyed%20buildings%2C%20homes%20from%20artillery%20shelling%20in%20Popasna%2C%20Ukraine.kmz) © [Maxar, via Mike Eckel](https://twitter.com/Mike_Eckel/status/1530420893704507394/photo/3)
 
 * [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Russian armored unit deployed along the road in Popasna, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/0525popasna/May.25%2C%20Russian%20armored%20unit%20deployed%20along%20the%20road%20in%20Popasna%2C%20Ukraine.kmz) ©[Maxar](https://twitter.com/Maxar/status/1530313120006123520/photo/1)
 
 * [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Extensive building damage in Popasna, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/0525popasna/May.25%2C%20Extensive%20building%20damage%20in%20Popasna%2C%20Ukraine.kmz) © [Maxar, via Mike Eckel](https://twitter.com/Mike_Eckel/status/1530420893704507394/photo/1)
 
+### Lyman
+* [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Damaged homes, buildings in Lyman, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/0525lyman/May.25%2C%20Damaged%20homes%2C%20buildings%20in%20Lyman%2C%20Ukraine.kmz) © [Maxar, via Mike Eckel](https://twitter.com/Mike_Eckel/status/1530420118945157120/photo/4)
+
+* [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Armored convoy crossing mobile bridge over Zherebets River, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/0525lyman/May.25%2C%20%20Armored%20convoy%20crossing%20mobile%20bridge%20over%20Zherebets%20River%2C%20Ukraine.kmz) © [Maxar, via Mike Eckel](https://twitter.com/Mike_Eckel/status/1530420118945157120/photo/1)
+
+* [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> 1. Artillery craters in fields and closer view of destroyed buildings from recent shelling in Lyman, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/0525lyman/May.25%2C%201.%20Artillery%20craters%20in%20fields%20and%20closer%20view%20of%20destroyed%20buildings%20from%20recent%20shelling%20in%20Lyman%2C%20Ukraine.kmz) © [Maxar, via Mike Eckel](https://twitter.com/Mike_Eckel/status/1530420118945157120/photo/2)
+
+* [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> 2. Artillery craters in fields and closer view of destroyed buildings from recent shelling in Lyman, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/0525lyman/May.25%2C%202.%20Artillery%20craters%20in%20fields%20and%20closer%20view%20of%20destroyed%20buildings%20from%20recent%20shelling%20in%20Lyman%2C%20Ukraine.kmz) © [Maxar, via Mike Eckel](https://twitter.com/Mike_Eckel/status/1530420118945157120/photo/3)
 
 
 ## 20220524
