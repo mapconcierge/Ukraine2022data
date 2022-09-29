@@ -8,14 +8,15 @@
 
 * [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> 3. Cross the border into Georgia at the Lars checkpoint, Russia](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/20220925/Sep.25%2C%203.%20Cross%20the%20border%20into%20Georgia%20at%20the%20Lars%20checkpoint%2C%20in%20Russia.kmz) ©[Maxar](https://twitter.com/Maxar/status/1574491427400458241), georeferenced by Taichi Furuhashi
 
+## 20220923
+### [Cahta](https://github.com/mapconcierge/Ukraine2022data/tree/main/satelliteimageries/temp/20220923Cahta)
+* [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Cahta checkpoint on Russia's border with Mongolia, Russia](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/20220923Cahta/Sep.23%2C%20Cahta%20checkpoint%20on%20Russia's%20border%20with%20Mongolia%2C%20Russia.kmz) ©[Maxar](https://twitter.com/Maxar/status/1574491427400458241), georeferenced by Taichi Furuhashi
+
+
 ## 20220901
-
 ## 20220831
-
 ## 20220802
-
 ## 20220801
-
 ## 20220731
 
 ## 20220730
