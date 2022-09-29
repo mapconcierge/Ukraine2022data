@@ -1,7 +1,8 @@
 # KMZ files
 
 
-## [20220925](https://github.com/mapconcierge/Ukraine2022data/tree/main/satelliteimageries/temp/20220925)
+## 20220925
+### [Lars](https://github.com/mapconcierge/Ukraine2022data/tree/main/satelliteimageries/temp/20220925)
 * [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> 1. Cross the border into Georgia at the Lars checkpoint, Russia](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/20220925/Sep.25%2C%201.%20Cross%20the%20border%20into%20Georgia%20at%20the%20Lars%20checkpoint%2C%20in%20Russia.kmz) ©[Maxar](https://twitter.com/Maxar/status/1574491427400458241), georeferenced by Taichi Furuhashi
 
 * [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> 2. Cross the border into Georgia at the Lars checkpoint, Russia](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/20220925/Sep.25%2C%202.%20Cross%20the%20border%20into%20Georgia%20at%20the%20Lars%20checkpoint%2C%20in%20Russia.kmz) ©[Maxar](https://twitter.com/Maxar/status/1574491427400458241), georeferenced by Taichi Furuhashi
