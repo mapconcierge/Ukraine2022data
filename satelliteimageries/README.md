@@ -11,7 +11,7 @@
 
 ## 20220923
 ### [Cahta](https://github.com/mapconcierge/Ukraine2022data/tree/main/satelliteimageries/temp/20220923Cahta)
-* [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Cahta checkpoint on Russia's border with Mongolia, Russia](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/20220923Cahta/Sep.23%2C%20Cahta%20checkpoint%20on%20Russia's%20border%20with%20Mongolia%2C%20Russia.kmz) ©[Maxar, via Business Insider Japan, Mediagene Inc.](https://twitter.com/Maxar/status/1574491427400458241](https://www.businessinsider.jp/post-259818), georeferenced by Taichi Furuhashi
+* [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Cahta checkpoint on Russia's border with Mongolia, Russia](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/20220923Cahta/Sep.23%2C%20Cahta%20checkpoint%20on%20Russia's%20border%20with%20Mongolia%2C%20Russia.kmz) ©[Maxar, via Business Insider Japan, Mediagene Inc.](https://www.businessinsider.jp/post-259818), georeferenced by Taichi Furuhashi
 
 
 ## 20220901
