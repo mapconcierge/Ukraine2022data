@@ -1,7 +1,7 @@
 ---
 name: New Data report
 about: Create a report to help us improve
-title: '[New Data]'
+title: '[New Data] I have discovered yet unknown "hogehoge" data.'
 labels: 'newdata'
 assignees: 'mapconcierge'
 
