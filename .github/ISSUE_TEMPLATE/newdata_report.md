@@ -1,13 +1,13 @@
 ---
 name: New Data report
 about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: '@mapconcierge'
+title: '[New Data]'
+labels: 'newdata'
+assignees: 'mapconcierge'
 
 ---
 
-**Describe the bug**
+**Describe the data**
 A clear and concise description of what the bug is.
 
 **To Reproduce**
