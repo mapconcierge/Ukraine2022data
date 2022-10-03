@@ -7,8 +7,13 @@ assignees: 'mapconcierge'
 
 ---
 
-**Describe the data**
-A clear and concise description of what the bug is.
+# Title of Data Set in English
+**Please input Title of Dataset**
+
+# Title of Data Set in Japanese
+**ここに日本語でタイトルを記載してください**
+
+
 
 **To Reproduce**
 Steps to reproduce the behavior:
