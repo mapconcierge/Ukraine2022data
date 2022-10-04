@@ -33,34 +33,27 @@ assignees: 'mapconcierge'
 ## Data Publisher/データ公開者
 **Name of Data Publisher**
 
+## Data Source Permalink URL/元データのURL
+**Permalink URL**
+
 ## Data Type/データの種類
  - Platform: [e.g. Satellite, Drone, Airbone, Human, Car/MMS, Bike and more]
  - Sensor: [e.g. Optical, LiDAR, RADAR/SAR, Infra-red and more]
- - Sensor: [e.g. Optical, LiDAR, RADAR/SAR, Infra-red and more]
+ - Comment: [e.g. analyzed by EO browser, Sentinel-Hub.]
 
-## Georeference
+
+# Georeference
+## Georeferencer Name/ジオリファレンス担当者名
+**Name**
+
+## Lat,Lon
  - Center Lat,Lon: [e.g. 47.09603, 37.54854]
 
-## Data Type/データの種類
+## Georeferenced KMZ
+**Please add Permalink URL of KMZ file on GitHub**
 
 
 
-
-
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
-
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
-
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-
+# Comments
 **Additional context**
 Add any other context about the problem here.
