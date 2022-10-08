@@ -2,6 +2,10 @@
 
 ## 20221008
 ### [Crimia Bridge](https://github.com/mapconcierge/Ukraine2022data/tree/main/satelliteimageries/temp/20221008crimiabridge)
+* [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Oct.7, Satellite image of the Crimea Bridge before an explosion, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/20221008crimiabridge/Oct.7%2CSatelliteimageoftheCrimeaBridgebeforeanexplosioninUkraine.kmz) ©[Planet](https://twitter.com/planet/status/1578783614221058048), georeferenced by Taichi Furuhashi
+
+* [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Satellite image of the Crimea Bridge after an explosion, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/20221008crimiabridge/Oct.8%2CSatelliteimageoftheCrimeaBridgeafteranexplosioninUkraine.kmz) ©[Planet](https://twitter.com/planet/status/1578783614221058048), georeferenced by Taichi Furuhashi
+
 * [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> 1. Satellite image of the Crimea Bridge destroyed by an explosion, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/20221008crimiabridge/Oct.8%2C1.SatelliteimageoftheCrimeanBridgedestroyedbyanexplosioninUkraine.kmz) ©[Maxar](https://twitter.com/Maxar/status/1578853400195629056/), georeferenced by Taichi Furuhashi
 
 * [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> 2. Satellite image of the Crimea Bridge destroyed by an explosion, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/20221008crimiabridge/Oct.8%2C2.SatelliteimageoftheCrimeanBridgedestroyedbyanexplosioninUkraine.kmz) ©[Maxar](https://twitter.com/Maxar/status/1578853400195629056/), georeferenced by Taichi Furuhashi
