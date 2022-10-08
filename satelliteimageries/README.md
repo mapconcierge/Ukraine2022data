@@ -1,5 +1,16 @@
 # KMZ files
 
+## 20221008
+### Crimia Bridge
+* [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> 1. Satellite image of the Crimea Bridge destroyed by an explosion, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/20221008crimiabridge/Oct.8%2C1.SatelliteimageoftheCrimeanBridgedestroyedbyanexplosioninUkraine.kmz) ©[Maxar](https://twitter.com/Maxar/status/1578853400195629056/), georeferenced by Taichi Furuhashi
+
+* [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> 2. Satellite image of the Crimea Bridge destroyed by an explosion, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/20221008crimiabridge/Oct.8%2C2.SatelliteimageoftheCrimeanBridgedestroyedbyanexplosioninUkraine.kmz) ©[Maxar](https://twitter.com/Maxar/status/1578853400195629056/), georeferenced by Taichi Furuhashi
+
+* [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> 3. Satellite image of the Crimea Bridge destroyed by an explosion, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/20221008crimiabridge/Oct.8%2C3.SatelliteimageoftheCrimeanBridgedestroyedbyanexplosioninUkraine.kmz) ©[Maxar](https://twitter.com/Maxar/status/1578853400195629056/), georeferenced by Taichi Furuhashi
+
+* [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> 4. Satellite image of the Crimea Bridge destroyed by an explosion, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/20221008crimiabridge/Oct.8%2C4.SatelliteimageoftheCrimeanBridgedestroyedbyanexplosioninUkraine.kmz) ©[Maxar](https://twitter.com/Maxar/status/1578853400195629056/), georeferenced by Taichi Furuhashi
+
+
 
 ## 20220925
 ### [Lars](https://github.com/mapconcierge/Ukraine2022data/tree/main/satelliteimageries/temp/20220925)
