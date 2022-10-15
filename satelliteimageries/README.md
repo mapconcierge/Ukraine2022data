@@ -1,5 +1,15 @@
 # KMZ files
 
+## 20221011
+### [Kherson](https://github.com/mapconcierge/Ukraine2022data/tree/main/satelliteimageries/temp/20221011kherson)
+* [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Oct.11, Bridge in Darivka Kherson is out of service for vehicles, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/20221011kherson/Oct.11%2C%20Bridge%20in%20Darivka%20Kherson%20is%20out%20of%20service%20for%20vehicles%20in%20Ukraine.kmz) ©[CNES 2022, Airbus via @ArtisanalAPT](https://twitter.com/ArtisanalAPT/status/1581138626217316354), georeferenced by Taichi Furuhashi
+
+
+## 20221010
+
+## 20221009
+
+
 ## 20221008
 ### [Crimia Bridge](https://github.com/mapconcierge/Ukraine2022data/tree/main/satelliteimageries/temp/20221008crimiabridge)
 * [<img src="https://github.com/mapconcierge/Ukraine2022data/blob/main/assets/kml_icon_white.png?raw=true" width="20" /> Oct.7, Satellite image of the Crimea Bridge before an explosion, Ukraine](https://github.com/mapconcierge/Ukraine2022data/raw/main/satelliteimageries/temp/20221008crimiabridge/Oct.7%2CSatelliteimageoftheCrimeaBridgebeforeanexplosioninUkraine.kmz) ©[Planet](https://twitter.com/planet/status/1578783614221058048), georeferenced by Taichi Furuhashi
